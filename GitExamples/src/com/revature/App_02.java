@@ -8,7 +8,8 @@ public class App_02 {
 			System.out.println(c);
 			c=c+1;
 		}
-
+		System.out.println("Thank you!!");
+		
 	}
 
 }
