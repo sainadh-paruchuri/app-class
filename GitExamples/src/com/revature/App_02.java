@@ -1,12 +1,12 @@
 package com.revature;
-public class App_01 {
+
+public class App_02 {
 
 	public static void main(String[] args) {
-		System.out.println("Git Example: ");
 		int c=1;
-		while(c>20) {
+		while(c<5) {
 			System.out.println(c);
-			c+=c;
+			c=c+1;
 		}
 
 	}
